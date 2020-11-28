@@ -1,0 +1,12 @@
+{
+  "name": "wbBeginner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pnskh112/wbBeginner.git",
+  "author": "pnskh112 <pnskh112pnskh112pnskh112@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.8.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
